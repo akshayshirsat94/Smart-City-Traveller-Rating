@@ -1,0 +1,2 @@
+# Smart-City-Traveller-Rating
+This Travel Rating Data enable users to view the information of various places. The user can search the places with a category like 'churches', 'resorts', 'beaches', 'parks', 'theatres', 'museums', 'malls', 'zoo' etc. Users can view all the details of the places and they can give the description and rating to the place. All the details of places which include the description and ratings can be viewed by guest users. By the user information we can give the suggestions regarding places to visit according to previous information or related places.
